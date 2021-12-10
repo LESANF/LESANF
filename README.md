@@ -10,4 +10,4 @@
 
 <h2>Watch my contribution graph get eaten by the snake🐍</h2>
 
-![snake svg](https://github.com/LESANF/snk/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/LESANF/snk/blob/output/github-contribution-grid-snake.svg)
