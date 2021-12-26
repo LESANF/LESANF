@@ -8,6 +8,6 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lesacat&theme=dark)
 
 
-<h2>Watch my contribution graph get eaten by the snake🐍</h2>
+<h2>Watch my contribution graph get eaten by the snake 🐍</h2>
 
 ![snake svg](https://github.com/LESANF/snk/blob/output/github-contribution-grid-snake.svg)
