@@ -1,20 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DongHanKim&fontSize=70&animation=twinkling)
 
-<div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLESANF%2Fhit-counter&count_bg=%23A0C4CD&title_bg=%23C4AAAA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-
-
-<h3 align="center"> :dolphin: HIT ME UP :dolphin: </h3>
-<p align="center">
-  <a href="https://velog.io/@lesacat94"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lesacat94"/></a>&nbsp
-  <a href="https://www.instagram.com/lesawfe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lesawfe/"/></a>&nbsp
-  <a href="https://www.linkedin.com/in/lesacat/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lesacat/"/></a>
-</p>
-
-
-
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align=center>
@@ -38,3 +24,16 @@
 <h2>Watch my contribution graph get eaten by the snake 🐍</h2>
 
 ![snake svg](https://github.com/LESANF/snk/blob/output/github-contribution-grid-snake.svg)
+
+<h3 align="center"> :dolphin: HIT ME UP :dolphin: </h3>
+<p align="center">
+  <a href="https://velog.io/@lesacat94"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lesacat94"/></a>&nbsp
+  <a href="https://www.instagram.com/lesawfe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lesawfe/"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/lesacat/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lesacat/"/></a>
+</p>
+
+<br/>
+
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLESANF%2Fhit-counter&count_bg=%23A0C4CD&title_bg=%23C4AAAA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
