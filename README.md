@@ -1,6 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DongHanKim&fontSize=70&animation=twinkling)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=DongHanKim&fontSize=70&animation=twinkling) -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=DongHanKim&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align=center>
