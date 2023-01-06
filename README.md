@@ -23,7 +23,7 @@
 
 <h2>Watch my contribution graph get eaten by the snake 🐍</h2>
 
-![snake svg](https://github.com/LESANF/snk/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/LESANF/snk/blob/master/assets/github-contribution-grid-snake.svg)
 
 <h3 align="center"> :dolphin: HIT ME UP :dolphin: </h3>
 <p align="center">
