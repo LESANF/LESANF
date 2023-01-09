@@ -15,11 +15,11 @@
  <code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" src="https://www.paulligocki.com/wp-content/uploads/2022/03/MySQLLogo.png"></code>
  </div>
 
-<h2>BOJ</h2>
+<!-- <h2>BOJ</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lesacat)](https://solved.ac/lesacat/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lesacat&theme=dark)
-
+ -->
 
 <h2>Watch my contribution graph get eaten by the snake 🐍</h2>
 
