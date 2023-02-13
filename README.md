@@ -14,6 +14,7 @@
       "react-query",
       "framer-motion",
       "recoil",
+      "styled-components"
     ],
     "backend": ["nodejs", "express"],
     "database": ["mongo", "mysql", "oracle"]
