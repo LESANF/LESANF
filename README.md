@@ -48,8 +48,7 @@
 
 <img src="https://github.com/LESANF/LESANF/assets/54767632/1be14725-8dfb-48b7-8f5c-d9d5a0b92064" width="84" height="84">
 
-
-![snake svg](https://github.com/LESANF/snk/blob/master/assets/github-contribution-grid-snake.svg)
+![snake svg](https://raw.githubusercontent.com/LESANF/snk/output/only-svg/github-contribution-grid-snake-kirby-dark.svg)
 
 <h3 align="center"> :dolphin: HIT ME UP :dolphin: </h3>
 <p align="center">
