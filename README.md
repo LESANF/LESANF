@@ -1,6 +1,9 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=DongHanKim&fontSize=70&animation=twinkling) -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=DongHanKim&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44&animation=twinkling)
+
+![LESA-Photoroom png-Photoroom](https://github.com/LESANF/LESANF/assets/54767632/1aa1eb31-1626-4f2c-8b78-1edec107b7c9)
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=DongHanKim&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44&animation=twinkling) -->
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align=center>
