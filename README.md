@@ -5,7 +5,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=DongHanKim&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44&animation=twinkling) -->
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<!-- <h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align=center>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -42,7 +42,7 @@
   "hobby": ["toy-project", "algorithm", "fishing", "workout"]
 }
 ```
-
+-->
 <h2>BOJ</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lesacat)](https://solved.ac/lesacat/)
