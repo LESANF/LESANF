@@ -1,7 +1,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=DongHanKim&fontSize=70&animation=twinkling) -->
 
-![LESA-Photoroom png-Photoroom](https://github.com/LESANF/LESANF/assets/54767632/1aa1eb31-1626-4f2c-8b78-1edec107b7c9)
+<!-- ![LESA-Photoroom png-Photoroom](https://github.com/LESANF/LESANF/assets/54767632/1aa1eb31-1626-4f2c-8b78-1edec107b7c9) -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=DongHanKim&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44&animation=twinkling) -->
 
@@ -43,10 +43,10 @@
 }
 ```
 -->
-<h2>BOJ</h2>
+<!-- <h2>BOJ</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lesacat)](https://solved.ac/lesacat/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=lesacat&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=lesacat&theme=dark) -->
 
 
 <img src="https://github.com/LESANF/LESANF/assets/54767632/1be14725-8dfb-48b7-8f5c-d9d5a0b92064" width="84" height="84">
