@@ -43,10 +43,10 @@
 }
 ```
 -->
-<!-- <h2>BOJ</h2>
+<h2>BOJ</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lesacat)](https://solved.ac/lesacat/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=lesacat&theme=dark) -->
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=lesacat&theme=dark)
 
 
 <img src="https://github.com/LESANF/LESANF/assets/54767632/1be14725-8dfb-48b7-8f5c-d9d5a0b92064" width="84" height="84">
