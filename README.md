@@ -70,6 +70,6 @@
 <br/>
 
 <div align=center>
- <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FLESANF?color=blue&label=visit&size=small" alt="visit" /></a>
+<!--   <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FLESANF?color=blue&label=visit&size=small" alt="visit" /></a> -->
   <a href="https://wakatime.com/@04362434-85e7-411f-82a8-b2d3dc646319"><img src="https://wakatime.com/badge/user/04362434-85e7-411f-82a8-b2d3dc646319.svg" alt="Total time coded since Jul 5 2021" /></a>
 </div>
