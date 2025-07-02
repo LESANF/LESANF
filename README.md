@@ -62,10 +62,10 @@
 <img src="https://github.com/LESANF/snk/blob/output/only-svg/github-contribution-grid-snake-sonic-dark.svg" alt="snake">
 
 
-<h3 align="center"> :dolphin: HIT ME UP :dolphin: </h3>
+<!-- <h3 align="center"> :dolphin: HIT ME UP :dolphin: </h3>
 <p align="center">
 <a href="https://velog.io/@lesacat94"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/lesawfe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/lesacat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://www.lesacat.site"><img src="https://img.shields.io/badge/Portfolio-50C878?style=flat-square&logo=Safari&logoColor=white"/></a>
-</p>
+</p> -->
 
 <br/>
 
