@@ -73,3 +73,12 @@
 <!--   <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FLESANF?color=blue&label=visit&size=small" alt="visit" /></a> -->
   <a href="https://wakatime.com/@04362434-85e7-411f-82a8-b2d3dc646319"><img src="https://wakatime.com/badge/user/04362434-85e7-411f-82a8-b2d3dc646319.svg" alt="Total time coded since Jul 5 2021" /></a>
 </div>
+
+<br/>
+
+<h1><img src="https://github.com/user-attachments/assets/459473ff-2180-4924-ba1b-890c72d21130" width="40" align="absmiddle">&nbsp; Contributions</h1>
+
+<img src="https://github.com/user-attachments/assets/1f9de946-90ab-413b-bfb9-f0399a7a5dc7#gh-dark-mode-only" width="24" align="absmiddle"><img src="https://github.com/user-attachments/assets/2f3be754-12b3-4e68-a172-3b2d8b3300ea#gh-light-mode-only" width="24" align="absmiddle"> <b>react-native</b> · <a href="https://github.com/react/react-native/pull/58705">#58705 Stop remounting app on Element Inspector toggle</a><br>
+<img src="https://github.com/user-attachments/assets/c651aa99-cb90-4558-9871-ad4bea17707b#gh-dark-mode-only" width="24" align="absmiddle"><img src="https://github.com/user-attachments/assets/c1ab22a4-3c9a-4db6-b414-87e485ee8bb3#gh-light-mode-only" width="24" align="absmiddle"> <b>react-native-skia</b> · <a href="https://github.com/wcandillon/react-native-skia/pull/4337">#4337 Honor source alpha in blend modes</a><br>
+<img src="https://github.com/user-attachments/assets/c651aa99-cb90-4558-9871-ad4bea17707b#gh-dark-mode-only" width="24" align="absmiddle"><img src="https://github.com/user-attachments/assets/c1ab22a4-3c9a-4db6-b414-87e485ee8bb3#gh-light-mode-only" width="24" align="absmiddle"> <b>react-native-skia</b> · <a href="https://github.com/wcandillon/react-native-skia/pull/4338">#4338 Apply TextStyle fontVariations on native</a><br>
+<img src="https://github.com/user-attachments/assets/fa1b6b8f-15c2-4e03-92f2-839ab522cf3e" width="24" align="absmiddle"> <b>hot-updater</b> · <a href="https://github.com/gronxb/hot-updater/pull/962">#962 Widen @expo/fingerprint range for dedupe</a>
